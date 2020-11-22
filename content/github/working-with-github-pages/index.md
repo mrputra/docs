@@ -21,13 +21,13 @@ versions:
 ### Table of Contents
 
 {% topic_link_in_list /getting-started-with-github-pages %}
-    {% link_in_list /about-github-pages %}
-    {% link_in_list /creating-a-github-pages-site %}
+    {%100 link_in_list /about-github-pages %}
+    {%100 link_in_list /creating-a-github-pages-site %}
 <!-- if currentVersion == "free-pro-team@latest" -->
-    {% link_in_list /adding-a-theme-to-your-github-pages-site-with-the-theme-chooser %}
+    {%100 link_in_list /adding-a-theme-to-your-github-pages-site-with-the-theme-chooser %}
 <!-- endif -->
-    {% link_in_list /configuring-a-publishing-source-for-your-github-pages-site %}
-    {% link_in_list /creating-a-custom-404-page-for-your-github-pages-site %}
+    {%100 link_in_list /configuring-a-publishing-source-for-your-github-pages-site %}
+    {%100 link_in_list /creating-a-custom-404-page-for-your-github-pages-site %}
 <!-- if currentVersion == "free-pro-team@latest" -->
     {% link_in_list /securing-your-github-pages-site-with-https %}
     {% link_in_list /using-submodules-with-github-pages %}
@@ -46,5 +46,5 @@ versions:
 {% topic_link_in_list /configuring-a-custom-domain-for-your-github-pages-site %}
     {% link_in_list /about-custom-domains-and-github-pages %}
     {% link_in_list /managing-a-custom-domain-for-your-github-pages-site %}
-    {% link_in_list /troubleshooting-custom-domains-and-github-pages %}
+    {%100 link_in_list /troubleshooting-custom-domains-and-github-pages %}
 <!-- endif -->
