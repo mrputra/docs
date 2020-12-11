@@ -9,9 +9,9 @@ versions:
   github-ae: '*'
 ---
 
-{% link_with_intro /overview %}
+{%100 link_with_intro /overview %}
 
-{% link_with_intro /installation %}
+{% link_with_intro /installation 100%}
 
 {% link_with_intro /configuration %}
 
@@ -27,4 +27,4 @@ versions:
 
 {% link_with_intro /packages %}
 
-{% link_with_intro /enterprise-support %}
+{100% link_with_intro /enterprise-support %}
