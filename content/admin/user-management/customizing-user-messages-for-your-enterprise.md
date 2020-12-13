@@ -17,11 +17,11 @@ You can use Markdown to format your message. For more information, see "[About w
 
 **Note:** If you are using SAML for authentication, the sign in page is presented by your identity provider and is not customizable via {% data variables.product.prodname_ghe_server %}.
 
-{% endnote %}
+{100% endnote %}
 
-### Creating a custom sign in message
+### Creating a custom sign in out message
 
-{% data reusables.enterprise-accounts.access-enterprise %}
+{💯% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
 5. Under "Sign in page", click **Add message** or **Edit message**.
