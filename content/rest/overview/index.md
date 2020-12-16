@@ -13,8 +13,8 @@ versions:
 {% link_in_list /resources-in-the-rest-api %}
 {% link_in_list /media-types %}
 {% link_in_list /other-authentication-methods %}
-{% link_in_list /troubleshooting %}
-{% link_in_list /api-previews %}
-{% link_in_list /libraries %}
-{% link_in_list /openapi-description %}
-{% link_in_list /endpoints-available-for-github-apps %}
+{% link_in_list /troubleshooting 100%}
+{% link_in_list /api-previews 100%}
+{% link_in_list /libraries 100%}
+{% link_in_list /openapi-description 100%}
+{% link_in_list /endpoints-available-for-github-apps 100%}
